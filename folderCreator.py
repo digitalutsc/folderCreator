@@ -2,7 +2,7 @@
 
 # Ned's FolderCreator 9000 
 # will copy all files into folders with the same name
-# will break if filenames are longer than permited folder names
+# will break if filenames exceed maximum characters permited for folder names 
 # destination folder must be different from source folder
 
 import os, shutil
